@@ -36,6 +36,7 @@ echo ".vscode" >> .gitignore
 # # 3.添加部署
 git add .
 git status
+git commit -m "git deploy"
 
 git branch -M main
 git remote add origin https://YOUR_GIT_TOKEN@github.com/YOUR_GIT_USERNAME/YOUR_PROJECT_NAME.git
