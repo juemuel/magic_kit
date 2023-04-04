@@ -5,7 +5,7 @@ set -e
 
 # 1. 初始化git、READ.md
 git init
-echo "# TITLE" >> README.md
+echo "# TITLE" > README.md
 
 
 # 2. 配置git忽略项
