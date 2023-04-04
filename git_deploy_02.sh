@@ -33,11 +33,11 @@ echo ".DS_Store" >> .gitignore
 echo ".idea" >> .gitignore
 echo ".vscode" >> .gitignore
 	
-# # 3.添加部署
+# 3.添加部署
 git add 
 git commit -m "git deploy"
 git status
 git remote add origin https://TOKEN@github.com/用户名/仓库名.git
 git remote set-url origin https://TOKEN@github.com/用户名/仓库名.git
-git pull --rebase origin main
+# git pull --rebase origin main
 git push -u origin main
