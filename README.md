@@ -1,2 +1,9 @@
 # Magic_Kit
-No find
+## sh脚本
+- git_deploy_main.sh
+- git_push_main.sh
+- zip_dur.sh
+## js工具
+- lazyload.js：支持IntersectionObserver和scroll方案实现懒加载功能
+## 其他
+- gitignore_demo.txt：常见gitignore参考
