@@ -5,5 +5,7 @@
 - zip_dur.sh
 ## js工具
 - lazyload.js：支持IntersectionObserver和scroll方案实现懒加载功能
+## CI/CD
+- github_workflow.yaml
 ## 其他
 - gitignore_demo.txt：常见gitignore参考
